@@ -1,0 +1,268 @@
+{
+  "topic": "d.b2.01",
+  "exercises": [
+    {
+      "id": "d.b2.01.ex1",
+      "lesson": 1,
+      "kind": "practice",
+      "skill": "situation",
+      "difficulty": 2,
+      "type": "build_sentence",
+      "instruction": "Собери вопрос из слов.",
+      "description": "Cümle kuralım.",
+      "items": [
+        {
+          "id": "1",
+          "translation": "Какую карту мне нужно купить, чтобы доехать до Кызылая?",
+          "words": [
+            "Kızılay'a",
+            "gitmek",
+            "için",
+            "hangi",
+            "kartı",
+            "almam",
+            "gerekiyor?"
+          ],
+          "explanation": "Kızılay'a gitmek için hangi kartı almam gerekiyor?"
+        },
+        {
+          "id": "2",
+          "translation": "Покажете, как мне включить котёл?",
+          "words": [
+            "Kombiyi",
+            "nasıl",
+            "çalıştırabileceğimi",
+            "gösterir",
+            "misiniz?"
+          ],
+          "explanation": "Kombiyi nasıl çalıştırabileceğimi gösterir misiniz?"
+        }
+      ]
+    },
+    {
+      "id": "d.b2.01.ex2",
+      "lesson": 1,
+      "kind": "practice",
+      "skill": "situation",
+      "difficulty": 2,
+      "type": "gap_fill",
+      "instruction": "Заполни пропуски фразами из истории.",
+      "description": "Boşlukları dolduralım.",
+      "items": [
+        {
+          "id": "1",
+          "text": "Bagajımı alt ___ alabilir miyim?",
+          "answers": [
+            [
+              "bölmeden"
+            ]
+          ],
+          "explanation": "Bagajımı alt bölmeden alabilir miyim?"
+        },
+        {
+          "id": "2",
+          "text": "AnkaraKart alıp içine para ___ lazım.",
+          "answers": [
+            [
+              "yüklemeniz"
+            ]
+          ],
+          "explanation": "AnkaraKart alıp içine para yüklemeniz lazım."
+        },
+        {
+          "id": "3",
+          "text": "Kuğulu Park'ı ___ sola dönün.",
+          "answers": [
+            [
+              "görünce"
+            ]
+          ],
+          "explanation": "Kuğulu Park'ı görünce sola dönün."
+        },
+        {
+          "id": "4",
+          "text": "Çöpü ne zaman çıkarmam ___?",
+          "answers": [
+            [
+              "gerekiyor"
+            ]
+          ],
+          "explanation": "Çöpü ne zaman çıkarmam gerekiyor?"
+        }
+      ]
+    },
+    {
+      "id": "d.b2.01.ex3",
+      "lesson": 1,
+      "kind": "practice",
+      "skill": "situation",
+      "difficulty": 2,
+      "type": "custom",
+      "instruction": "Напиши Несрин-ханым сообщение: ты доехал, ключи у кападжи забрал, котёл работает. Спроси одну вещь про квартиру. 3–4 предложения на «siz».",
+      "description": "Yazalım.",
+      "items": [
+        {
+          "id": "1",
+          "task": "Напиши Несрин-ханым сообщение: ты доехал, ключи у кападжи забрал, котёл работает. Спроси одну вещь про квартиру. 3–4 предложения на «siz».",
+          "model": "Günaydın Nesrin Hanım, sabah Ankara'ya geldim. Anahtarı Hasan Efendi'den aldım, kombi de çalışıyor. Çamaşır makinesini nasıl kullanacağımı söyler misiniz? Teşekkür ederim.",
+          "answer": "Günaydın Nesrin Hanım, sabah Ankara'ya geldim. Anahtarı Hasan Efendi'den aldım, kombi de çalışıyor. Çamaşır makinesini nasıl kullanacağımı söyler misiniz? Teşekkür ederim.",
+          "explanation": "Можно так: Günaydın Nesrin Hanım, sabah Ankara'ya geldim. Anahtarı Hasan Efendi'den aldım, kombi de çalışıyor. Çamaşır makinesini nasıl kullanacağımı söyler misiniz? Teşekkür ederim."
+        }
+      ]
+    },
+    {
+      "id": "d.b2.01.ex4",
+      "lesson": 1,
+      "kind": "practice",
+      "skill": "situation",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "instruction": "Послушай и выбери перевод",
+      "description": "Dinleyelim",
+      "items": [
+        {
+          "id": "1",
+          "prompt": "Что ты слышишь?",
+          "say": "şifre",
+          "options": [
+            "пароль",
+            "перрон",
+            "газовый котёл",
+            "Можно забрать мой багаж снизу?"
+          ],
+          "answer": 0,
+          "explanation": "şifre — пароль"
+        },
+        {
+          "id": "2",
+          "prompt": "Что ты слышишь?",
+          "say": "peron",
+          "options": [
+            "Можно забрать мой багаж снизу?",
+            "перрон",
+            "сухой мороз с ветром",
+            "газовый котёл"
+          ],
+          "answer": 1,
+          "explanation": "peron — перрон"
+        },
+        {
+          "id": "3",
+          "prompt": "Что ты слышишь?",
+          "say": "bulvar",
+          "options": [
+            "выход",
+            "консьерж дома",
+            "багажная бирка",
+            "бульвар"
+          ],
+          "answer": 3,
+          "explanation": "bulvar — бульвар"
+        },
+        {
+          "id": "4",
+          "prompt": "Что ты слышишь?",
+          "say": "yüklemek",
+          "options": [
+            "Какую карту мне нужно купить, чтобы доехать до Кызылая?",
+            "пополнять, класть деньги на карту",
+            "консьерж дома",
+            "Покажете, как мне включить котёл?"
+          ],
+          "answer": 1,
+          "explanation": "yüklemek — пополнять, класть деньги на карту"
+        },
+        {
+          "id": "5",
+          "prompt": "Что ты слышишь?",
+          "say": "Kombiyi nasıl çalıştırabileceğimi gösterir misiniz?",
+          "options": [
+            "консьерж дома",
+            "Покажете, как мне включить котёл?",
+            "Какую карту мне нужно купить, чтобы доехать до Кызылая?",
+            "пароль"
+          ],
+          "answer": 1,
+          "explanation": "Kombiyi nasıl çalıştırabileceğimi gösterir misiniz? — Покажете, как мне включить котёл?"
+        }
+      ]
+    },
+    {
+      "id": "d.b2.01.check1",
+      "lesson": 1,
+      "kind": "check",
+      "skill": "situation",
+      "type": "mixed",
+      "difficulty": 2,
+      "instruction": "Sınav — проверь себя",
+      "passPercent": 80,
+      "items": [
+        {
+          "id": "1",
+          "type": "multiple_choice",
+          "prompt": "«ayaz» — это…",
+          "options": [
+            "бульвар",
+            "пароль",
+            "сухой мороз с ветром",
+            "квартира"
+          ],
+          "answer": 2,
+          "explanation": "ayaz — сухой мороз с ветром"
+        },
+        {
+          "id": "2",
+          "type": "multiple_choice",
+          "prompt": "Как сказать по-турецки: «выход»?",
+          "options": [
+            "yüklemek",
+            "çıkış",
+            "ayaz",
+            "kombi"
+          ],
+          "answer": 1,
+          "explanation": "çıkış — выход"
+        },
+        {
+          "id": "3",
+          "type": "multiple_choice",
+          "prompt": "«Kavaklıdere'ye yürüyerek ne kadar sürer?» — это…",
+          "options": [
+            "Сколько идти пешком до Каваклыдере?",
+            "Положите на мою карту сто лир?",
+            "Какую карту мне нужно купить, чтобы доехать до Кызылая?",
+            "турникет"
+          ],
+          "answer": 0,
+          "explanation": "Kavaklıdere'ye yürüyerek ne kadar sürer? — Сколько идти пешком до Каваклыдере?"
+        },
+        {
+          "id": "4",
+          "type": "multiple_choice",
+          "prompt": "Как сказать по-турецки: «консьерж дома»?",
+          "options": [
+            "ayaz",
+            "kombi",
+            "kapıcı",
+            "peron"
+          ],
+          "answer": 2,
+          "explanation": "kapıcı — консьерж дома"
+        },
+        {
+          "id": "5",
+          "type": "multiple_choice",
+          "prompt": "«kombi» — это…",
+          "options": [
+            "Где мне узнать пароль от интернета?",
+            "газовый котёл",
+            "Покажете, как мне включить котёл?",
+            "турникет"
+          ],
+          "answer": 1,
+          "explanation": "kombi — газовый котёл"
+        }
+      ]
+    }
+  ]
+}
