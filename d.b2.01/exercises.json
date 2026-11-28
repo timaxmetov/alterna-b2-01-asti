@@ -188,6 +188,94 @@
       ]
     },
     {
+      "id": "d.b2.01.ex5",
+      "lesson": 1,
+      "kind": "practice",
+      "skill": "situation",
+      "type": "custom",
+      "difficulty": 3,
+      "instruction": "Varış: AŞTİ'ye gece otobüsü",
+      "description": "Автовокзал АШТИ",
+      "items": [
+        {
+          "id": "1",
+          "bot": {
+            "tr": "AnkaraKart alıp içine para yüklemeniz lazım. Kartı buradan alabilirsiniz.",
+            "ru": "Нужно купить AnkaraKart и положить на неё деньги. Карту можно купить здесь."
+          },
+          "options": [
+            {
+              "tr": "Kartıma yüz lira yükler misiniz?",
+              "ru": "Положите на мою карту сто лир?"
+            },
+            {
+              "tr": "Kartımı yüz liraya yükler misiniz?",
+              "ru": "Погрузите мою карту на сто лир?",
+              "hint": "Кассир поднимает бровь: грузить карту куда? Kartımı — карту как груз. Пополняют karta: kartıma yüz lira yüklemek."
+            }
+          ],
+          "answer": 0,
+          "reply": null,
+          "explanation": "Подходит: Kartıma yüz lira yükler misiniz? — Положите на мою карту сто лир?"
+        },
+        {
+          "id": "2",
+          "bot": {
+            "tr": "Nesrin Hanım anahtarı bıraktı. Daire yedi, üçüncü kat.",
+            "ru": "Несрин-ханым оставила ключ. Квартира семь, третий этаж."
+          },
+          "options": [
+            {
+              "tr": "Bagajımı alt bölmeden alabilir miyim? Fişim burada.",
+              "ru": "Можно забрать мой багаж снизу? Вот моя бирка.",
+              "hint": "Эта реплика из другого места разговора"
+            },
+            {
+              "tr": "Günaydın. Kızılay'a gitmek için hangi kartı almam gerekiyor?",
+              "ru": "Доброе утро. Какую карту мне нужно купить, чтобы доехать до Кызылая?",
+              "hint": "Эта реплика из другого места разговора"
+            },
+            {
+              "tr": "Çok sağ olun. İnternet şifresini nereden öğrenebilirim?",
+              "ru": "Большое спасибо. Где мне узнать пароль от интернета?"
+            }
+          ],
+          "answer": 2,
+          "reply": null,
+          "explanation": "Подходит: Çok sağ olun. İnternet şifresini nereden öğrenebilirim? — Большое спасибо. Где мне узнать пароль от интернета?"
+        },
+        {
+          "id": "3",
+          "bot": {
+            "tr": "Modemin altında yazıyor. Başka bir şey lazım mı?",
+            "ru": "Написан снизу на модеме. Что-нибудь ещё нужно?"
+          },
+          "options": [
+            {
+              "tr": "Kombiyi nasıl çalıştırabileceğimi gösterir misiniz?",
+              "ru": "Покажете, как мне включить котёл?"
+            },
+            {
+              "tr": "Kombi beni çalıştırır mı?",
+              "ru": "Котёл меня включит?",
+              "hint": "Хасан-эфенди смеётся: Kombi seni değil, sen kombiyi çalıştıracaksın. Не котёл тебя включает, а ты его. Включаешь что: kombiyi çalıştırmak."
+            }
+          ],
+          "answer": 0,
+          "reply": null,
+          "explanation": "Подходит: Kombiyi nasıl çalıştırabileceğimi gösterir misiniz? — Покажете, как мне включить котёл?"
+        }
+      ],
+      "final": {
+        "tr": "Akşam sekizden sonra kapının önüne koy, ben alırım.",
+        "ru": "Ставь у двери после восьми вечера, я заберу."
+      },
+      "character": {
+        "name": "AŞTİ",
+        "role": "Автовокзал АШТИ"
+      }
+    },
+    {
       "id": "d.b2.01.check1",
       "lesson": 1,
       "kind": "check",
